@@ -10,7 +10,7 @@ I will mark (done) for things I have finished.
 
 - Follow the ideas in the survey paper that interest you and dig deeper
 
-[LLM Survey](https://arxiv.org/pdf/2402.06196v2) \- 2024  
+[LLM Survey](https://arxiv.org/pdf/2402.06196v2) \- 2024  (working)
 [Agent Survey](https://arxiv.org/pdf/2308.11432) \- 2023  
 [Prompt Engineering Survey](https://arxiv.org/pdf/2406.06608) \- 2024
 
